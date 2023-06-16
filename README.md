@@ -6,4 +6,4 @@
 
 <img width="300" height="550" src="weatherapp_img/14.png">       <img width="300" height="550" src="weatherapp_img/15.png">
 
-<img width="300" height="550" src="weatherapp_img/10png">       <img width="300" height="550" src="weatherapp_img/11.png">
+<img width="300" height="550" src="weatherapp_img/10.png">       <img width="300" height="550" src="weatherapp_img/11.png">
